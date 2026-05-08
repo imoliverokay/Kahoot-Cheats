@@ -8,7 +8,16 @@
 
 WebSocket auto-answer with point control. Four stealth modes. A custom UI built like a real product.
 
-[**Live install &rarr; schoooltools.vercel.app**](https://schoooltools.vercel.app)
+[![Live site](https://img.shields.io/badge/live-schoooltools.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=15101F)](https://schoooltools.vercel.app)
+[![Stars](https://img.shields.io/github/stars/imoliverokay/kahack?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&labelColor=15101F)](https://github.com/imoliverokay/kahack/stargazers)
+[![Forks](https://img.shields.io/github/forks/imoliverokay/kahack?style=for-the-badge&logo=github&logoColor=white&color=6232B3&labelColor=15101F)](https://github.com/imoliverokay/kahack/network/members)
+[![Issues](https://img.shields.io/github/issues/imoliverokay/kahack?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&labelColor=15101F)](https://github.com/imoliverokay/kahack/issues)
+[![Last commit](https://img.shields.io/github/last-commit/imoliverokay/kahack?style=for-the-badge&color=6232B3&labelColor=15101F)](https://github.com/imoliverokay/kahack/commits/main)
+[![License](https://img.shields.io/badge/license-MIT-8B5CF6?style=for-the-badge&labelColor=15101F)](LICENSE)
+
+<br>
+
+[**&rarr; Install in one click**](https://schoooltools.vercel.app)
 &nbsp;&middot;&nbsp;
 [Bookmarklet](#bookmarklet)
 &nbsp;&middot;&nbsp;
@@ -138,6 +147,20 @@ This is a study aid and a self-hosting browser modification. It runs entirely in
 
 ---
 
+## Like it?
+
+If this saved your grade, drop a star &mdash; it costs nothing and helps more people find it.
+
+<a href="https://github.com/imoliverokay/kahack/stargazers"><img src="https://img.shields.io/github/stars/imoliverokay/kahack?style=social" alt="Star this repo"></a>
+
+<a href="https://star-history.com/#imoliverokay/kahack&Date">
+  <img src="https://api.star-history.com/svg?repos=imoliverokay/kahack&type=Date&theme=dark" alt="Star history" width="100%">
+</a>
+
+---
+
 ## Credits
 
 Built by [oli](https://github.com/imoliverokay). Kahoot, the K! mark, and the brand colors belong to Kahoot! AS. This project is not affiliated with, endorsed by, or sponsored by Kahoot! AS.
+
+<sub>Visitors: <img src="https://komarev.com/ghpvc/?username=imoliverokay-kahack&label=&color=8B5CF6&style=flat-square" alt=""></sub>
