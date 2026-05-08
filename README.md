@@ -9,10 +9,10 @@
 WebSocket auto-answer with point control. Four stealth modes. A custom UI built like a real product.
 
 [![Live site](https://img.shields.io/badge/live-schoooltools.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=15101F)](https://schoooltools.vercel.app)
-[![Stars](https://img.shields.io/github/stars/imoliverokay/kahack?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&labelColor=15101F)](https://github.com/imoliverokay/kahack/stargazers)
-[![Forks](https://img.shields.io/github/forks/imoliverokay/kahack?style=for-the-badge&logo=github&logoColor=white&color=6232B3&labelColor=15101F)](https://github.com/imoliverokay/kahack/network/members)
-[![Issues](https://img.shields.io/github/issues/imoliverokay/kahack?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&labelColor=15101F)](https://github.com/imoliverokay/kahack/issues)
-[![Last commit](https://img.shields.io/github/last-commit/imoliverokay/kahack?style=for-the-badge&color=6232B3&labelColor=15101F)](https://github.com/imoliverokay/kahack/commits/main)
+[![Stars](https://img.shields.io/github/stars/imoliverokay/Kahoot-Cheats?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&labelColor=15101F)](https://github.com/imoliverokay/Kahoot-Cheats/stargazers)
+[![Forks](https://img.shields.io/github/forks/imoliverokay/Kahoot-Cheats?style=for-the-badge&logo=github&logoColor=white&color=6232B3&labelColor=15101F)](https://github.com/imoliverokay/Kahoot-Cheats/network/members)
+[![Issues](https://img.shields.io/github/issues/imoliverokay/Kahoot-Cheats?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&labelColor=15101F)](https://github.com/imoliverokay/Kahoot-Cheats/issues)
+[![Last commit](https://img.shields.io/github/last-commit/imoliverokay/Kahoot-Cheats?style=for-the-badge&color=6232B3&labelColor=15101F)](https://github.com/imoliverokay/Kahoot-Cheats/commits/main)
 [![License](https://img.shields.io/badge/license-MIT-8B5CF6?style=for-the-badge&labelColor=15101F)](LICENSE)
 
 <br>
@@ -151,10 +151,10 @@ This is a study aid and a self-hosting browser modification. It runs entirely in
 
 If this saved your grade, drop a star &mdash; it costs nothing and helps more people find it.
 
-<a href="https://github.com/imoliverokay/kahack/stargazers"><img src="https://img.shields.io/github/stars/imoliverokay/kahack?style=social" alt="Star this repo"></a>
+<a href="https://github.com/imoliverokay/Kahoot-Cheats/stargazers"><img src="https://img.shields.io/github/stars/imoliverokay/Kahoot-Cheats?style=social" alt="Star this repo"></a>
 
-<a href="https://star-history.com/#imoliverokay/kahack&Date">
-  <img src="https://api.star-history.com/svg?repos=imoliverokay/kahack&type=Date&theme=dark" alt="Star history" width="100%">
+<a href="https://star-history.com/#imoliverokay/Kahoot-Cheats&Date">
+  <img src="https://api.star-history.com/svg?repos=imoliverokay/Kahoot-Cheats&type=Date&theme=dark" alt="Star history" width="100%">
 </a>
 
 ---
